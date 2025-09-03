@@ -9,7 +9,7 @@ public class ExtinguisherSpray : MonoBehaviour
     public ParticleSystem spray;
     XRGrabInteractable grab;
     bool isHeld = false;
-
+      
     void Awake()
     {
         grab = GetComponent<XRGrabInteractable>();
