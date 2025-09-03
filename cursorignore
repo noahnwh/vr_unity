@@ -1,0 +1,43 @@
+# =======================
+# Cursor Ignore for Unity
+# =======================
+
+# Unity auto-generated folders (HUGE, don’t index)
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDE / Editor junk
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.user
+*.booproj
+*.svd
+
+# Unity packages
+*.unitypackage
+
+# Android / iOS builds
+*.apk
+*.aab
+*.ipa
+*.xcodeproj
+*.xcworkspace
+
+# Crash / profiling logs
+*.stacktrace
+*.log
+sysinfo.txt
